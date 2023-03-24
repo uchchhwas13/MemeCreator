@@ -16,6 +16,7 @@
 		A099012529CD48160046A524 /* MemeCreatorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A099012429CD48160046A524 /* MemeCreatorUITestsLaunchTests.swift */; };
 		A099013229CD48980046A524 /* PandaCollectionFetcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = A099013129CD48980046A524 /* PandaCollectionFetcher.swift */; };
 		A099013429CD4AB00046A524 /* Panda.swift in Sources */ = {isa = PBXBuildFile; fileRef = A099013329CD4AB00046A524 /* Panda.swift */; };
+		A099013629CD4EA00046A524 /* LoadableImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = A099013529CD4EA00046A524 /* LoadableImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		A099012429CD48160046A524 /* MemeCreatorUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemeCreatorUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		A099013129CD48980046A524 /* PandaCollectionFetcher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PandaCollectionFetcher.swift; sourceTree = "<group>"; };
 		A099013329CD4AB00046A524 /* Panda.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Panda.swift; sourceTree = "<group>"; };
+		A099013529CD4EA00046A524 /* LoadableImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadableImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				A099010629CD48150046A524 /* MemeCreatorApp.swift */,
 				A099013329CD4AB00046A524 /* Panda.swift */,
 				A099013129CD48980046A524 /* PandaCollectionFetcher.swift */,
+				A099013529CD4EA00046A524 /* LoadableImage.swift */,
 				A099010829CD48150046A524 /* ContentView.swift */,
 				A099010A29CD48160046A524 /* Assets.xcassets */,
 				A099010C29CD48160046A524 /* MemeCreator.entitlements */,
@@ -269,6 +272,7 @@
 				A099010729CD48150046A524 /* MemeCreatorApp.swift in Sources */,
 				A099013429CD4AB00046A524 /* Panda.swift in Sources */,
 				A099013229CD48980046A524 /* PandaCollectionFetcher.swift in Sources */,
+				A099013629CD4EA00046A524 /* LoadableImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
