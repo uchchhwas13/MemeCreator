@@ -14,6 +14,8 @@
 		A099011929CD48160046A524 /* MemeCreatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A099011829CD48160046A524 /* MemeCreatorTests.swift */; };
 		A099012329CD48160046A524 /* MemeCreatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A099012229CD48160046A524 /* MemeCreatorUITests.swift */; };
 		A099012529CD48160046A524 /* MemeCreatorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A099012429CD48160046A524 /* MemeCreatorUITestsLaunchTests.swift */; };
+		A099013229CD48980046A524 /* PandaCollectionFetcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = A099013129CD48980046A524 /* PandaCollectionFetcher.swift */; };
+		A099013429CD4AB00046A524 /* Panda.swift in Sources */ = {isa = PBXBuildFile; fileRef = A099013329CD4AB00046A524 /* Panda.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +47,8 @@
 		A099011E29CD48160046A524 /* MemeCreatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MemeCreatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A099012229CD48160046A524 /* MemeCreatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemeCreatorUITests.swift; sourceTree = "<group>"; };
 		A099012429CD48160046A524 /* MemeCreatorUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemeCreatorUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A099013129CD48980046A524 /* PandaCollectionFetcher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PandaCollectionFetcher.swift; sourceTree = "<group>"; };
+		A099013329CD4AB00046A524 /* Panda.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Panda.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +100,8 @@
 			isa = PBXGroup;
 			children = (
 				A099010629CD48150046A524 /* MemeCreatorApp.swift */,
+				A099013329CD4AB00046A524 /* Panda.swift */,
+				A099013129CD48980046A524 /* PandaCollectionFetcher.swift */,
 				A099010829CD48150046A524 /* ContentView.swift */,
 				A099010A29CD48160046A524 /* Assets.xcassets */,
 				A099010C29CD48160046A524 /* MemeCreator.entitlements */,
@@ -261,6 +267,8 @@
 			files = (
 				A099010929CD48150046A524 /* ContentView.swift in Sources */,
 				A099010729CD48150046A524 /* MemeCreatorApp.swift in Sources */,
+				A099013429CD4AB00046A524 /* Panda.swift in Sources */,
+				A099013229CD48980046A524 /* PandaCollectionFetcher.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
