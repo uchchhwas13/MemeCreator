@@ -17,6 +17,7 @@
 		A099013229CD48980046A524 /* PandaCollectionFetcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = A099013129CD48980046A524 /* PandaCollectionFetcher.swift */; };
 		A099013429CD4AB00046A524 /* Panda.swift in Sources */ = {isa = PBXBuildFile; fileRef = A099013329CD4AB00046A524 /* Panda.swift */; };
 		A099013629CD4EA00046A524 /* LoadableImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = A099013529CD4EA00046A524 /* LoadableImage.swift */; };
+		A099013829CD517B0046A524 /* MemeCreator.swift in Sources */ = {isa = PBXBuildFile; fileRef = A099013729CD517B0046A524 /* MemeCreator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		A099013129CD48980046A524 /* PandaCollectionFetcher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PandaCollectionFetcher.swift; sourceTree = "<group>"; };
 		A099013329CD4AB00046A524 /* Panda.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Panda.swift; sourceTree = "<group>"; };
 		A099013529CD4EA00046A524 /* LoadableImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadableImage.swift; sourceTree = "<group>"; };
+		A099013729CD517B0046A524 /* MemeCreator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemeCreator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 			isa = PBXGroup;
 			children = (
 				A099010629CD48150046A524 /* MemeCreatorApp.swift */,
+				A099013729CD517B0046A524 /* MemeCreator.swift */,
 				A099013329CD4AB00046A524 /* Panda.swift */,
 				A099013129CD48980046A524 /* PandaCollectionFetcher.swift */,
 				A099013529CD4EA00046A524 /* LoadableImage.swift */,
@@ -270,6 +273,7 @@
 			files = (
 				A099010929CD48150046A524 /* ContentView.swift in Sources */,
 				A099010729CD48150046A524 /* MemeCreatorApp.swift in Sources */,
+				A099013829CD517B0046A524 /* MemeCreator.swift in Sources */,
 				A099013429CD4AB00046A524 /* Panda.swift in Sources */,
 				A099013229CD48980046A524 /* PandaCollectionFetcher.swift in Sources */,
 				A099013629CD4EA00046A524 /* LoadableImage.swift in Sources */,

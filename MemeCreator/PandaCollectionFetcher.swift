@@ -11,7 +11,7 @@ class PandaCollectionFetcher: ObservableObject {
     @Published var imageData = PandaCollection(sample: [Panda.defaultPanda])
     @Published var currentPanda = Panda.defaultPanda
     
-    let urlString = "http://playgrounds-cdn.apple.com/assets/pandaData.json"
+    let urlString = "https://playgrounds-cdn.apple.com/assets/pandaData.json"
     
     enum FetchError: Error {
         case badRequest
